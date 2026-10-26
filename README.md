@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EOX IT Services GmbH is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.eox.at
+EOX IT Services GmbH provides IT consulting, cloud solutions, and digital transformation services based in Austria. The company focuses on delivering tailored technology strategies, managed services, and support for enterprises seeking to modernize their infrastructure. Through a portfolio that includes system integration, cybersecurity, and data analytics, EOX helps clients optimize operations and accelerate innovation.
+
+**Areas:** Company · IT Services · Cloud Solutions · Digital Transformation · Consulting
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.eox.at)
+- [Terms of service](https://eox.at/terms-conditions/)
+- [Privacy policy](https://www.eox.at/privacy-notice/)
+- [GitHub](https://github.com/eox-a)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/eox-it-services-gmbh/](https://apis.io/providers/eox-it-services-gmbh/).
